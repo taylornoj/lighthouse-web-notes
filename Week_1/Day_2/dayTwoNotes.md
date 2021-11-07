@@ -30,4 +30,14 @@ Loopy Lighthouse output will look something like this:
 
 2. *Start Writing your Pseudocode*
 
+Describe in English, the solution you're going to implement:
+
+```
+Loop from 100 to 200:
+   Let num = the current step in the loop
+  Print num
+End loop
+```
+  ...which will start to loop just the numbers of our code -  a good start!
+
 
